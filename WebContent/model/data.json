@@ -1,0 +1,29 @@
+{
+  "company" : {
+             "name" : "SMAX",
+             "address" : {
+                    "flatno" : 201,
+                    "city"   : "Hyderabad"            
+             },
+             "empInfo" : [
+				             {
+				              "name" : "Devender",
+				              "role" : "Trainer",
+				              "dept" : "UI5"
+				             }, 
+				             {
+				              "name" : "Surender",
+				              "role" : "Call Support",
+				              "dept" : "Marketing"				             
+				             }, 
+				             {
+				              "name" : "Mahender",
+				              "role" : "Call Support",
+				              "dept" : "Marketing"				           
+				             }
+			             
+			             ]
+  
+  }
+
+}
